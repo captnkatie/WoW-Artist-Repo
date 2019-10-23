@@ -1,1 +1,1 @@
-Please use the readme for any notes you want to keep track of, as well as to document work completed!
+Katelyn McConnell Art Folder!
