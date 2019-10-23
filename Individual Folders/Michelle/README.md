@@ -1,1 +1,1 @@
-Please use the readme for any notes you want to keep track of, as well as to document work completed!
+Michelle Perez's concept/3d art file
