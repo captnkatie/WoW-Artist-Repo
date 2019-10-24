@@ -8,3 +8,4 @@ Front Temple Concept + 2h = 5h
 
 10/23/19
 Test Commit +5m = 5m *started *completed
+Front Temple Concept + 8h = 13h
