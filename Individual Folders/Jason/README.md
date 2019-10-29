@@ -14,3 +14,6 @@ Front Temple Concept + 8h = 13h
 Modular Temple Concepts + 8h = 8h *started *completed
 
 Week 1 Hours = 21
+
+10/28/2019
+Modular Temple Assets + 3h = 3h *Started/ carried over from concept phase
