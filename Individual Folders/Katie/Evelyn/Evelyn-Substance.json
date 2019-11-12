@@ -1,0 +1,64 @@
+{
+    "format": {
+        "version": "1.0"
+    },
+    "shaders": {
+        "Main shader": {
+            "materials": {
+                "detailMapSampler": "",
+                "difwarp": "//allegorithmic/fresnelranges.tga"
+            },
+            "parameters": {
+                "Common Parameters": {
+                    "alpha_dither": false,
+                    "alpha_threshold": 0.15000000596046448,
+                    "ao_intensity": 0.75,
+                    "emissive_intensity": 1,
+                    "horizonFade": 1.2999999523162842,
+                    "nbSamples": 16
+                },
+                "bDoDiffuseWarp": false,
+                "bDoRimLighting": true,
+                "bHasAlpha": false,
+                "bUseIBL": true,
+                "fAmbientColor": [
+                    0,
+                    0,
+                    0
+                ],
+                "fAmbientScale": 1,
+                "fDetailScale": 2.4600000381469727,
+                "fRimLightColor": [
+                    1,
+                    1,
+                    1
+                ],
+                "fRimLightScale": 2.4600000381469727,
+                "fSpecularColor": [
+                    1,
+                    1,
+                    1
+                ],
+                "fSpecularExponent": 16,
+                "fSpecularScale": 4,
+                "lightColor_1": [
+                    1,
+                    1,
+                    1
+                ],
+                "lightPosition_1": [
+                    0.5699999928474426,
+                    20,
+                    10
+                ]
+            },
+            "shader": "dota-2",
+            "shaderInstance": "Main shader"
+        }
+    },
+    "texturesets": {
+        "Evelynmat": {
+            "shader": "Main shader"
+        }
+    }
+}
